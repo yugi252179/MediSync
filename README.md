@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-21-orange.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.2-brightgreen.svg)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data-JPA-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
 
 **MediSync** is a robust, production-ready Spring Boot backend API designed for hospital and clinical workflow automation. It streamlines patient reception, appointment scheduling, doctor queue management, prescription processing, and medical history tracking.
 
